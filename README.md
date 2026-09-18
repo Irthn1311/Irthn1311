@@ -11,6 +11,11 @@ Graph-based facial-expression-recognition experiments on FER-2013, including pix
 
 **Focus:** Python · Graph Learning · Computer Vision · FER
 
+### [TRIAGE-EG — AI Challenge 2026](https://github.com/Irthn1311/AIC2026_TeamPTK_SGU)
+Active video-retrieval competition project with reproducible data/frame contracts, baseline retrieval, evaluation, testing, and a local → GitHub → Kaggle experiment workflow.
+
+**Stack:** Python · Multimodal Retrieval · Video Search · Evaluation · Kaggle
+
 ### [Smart School Bus Tracking System](https://github.com/Irthn1311/Smart_School_Bus_Tracking_System)
 Full-stack school transportation platform with multi-role workflows, realtime GPS tracking, trip-state updates, maps, and notifications.
 
@@ -25,11 +30,6 @@ Explainable symbolic-AI system using forward chaining, certainty factors, dynami
 Data-mining workflow combining market, on-chain, and event-window data for clustering, association analysis, event studies, and time-aware classification.
 
 **Stack:** Python · pandas · scikit-learn · Data Mining · Time-Series Evaluation
-
-### [TRIAGE-EG — AI Challenge 2026](https://github.com/Irthn1311/AIC2026_TeamPTK_SGU)
-Active video-retrieval competition project with reproducible data/frame contracts, baseline retrieval, evaluation, testing, and a local → GitHub → Kaggle experiment workflow.
-
-**Stack:** Python · Multimodal Retrieval · Video Search · Evaluation · Kaggle
 
 ### [Student Management System](https://github.com/Irthn1311/Student-Management-System_CSharp_SGU2025)
 Desktop school-management system with heuristic teaching assignment and Tabu Search timetable generation.
@@ -59,7 +59,3 @@ React · Next.js · PyQt5 · C# WinForms · Java Swing · Git/GitHub
 My GitHub contains both current projects and historical coursework. The six repositories above are the best starting points for portfolio review.
 
 Forked reference repositories are kept for reproduction / study and are explicitly attributed to their upstream sources.
-
----
-
-> This repository is the staging source for my GitHub profile README. GitHub will render it directly on the account profile after it is moved to the special public repository `Irthn1311/Irthn1311`.
