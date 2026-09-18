@@ -26,10 +26,10 @@ Data-mining workflow combining market, on-chain, and event-window data for clust
 
 **Stack:** Python · pandas · scikit-learn · Data Mining · Time-Series Evaluation
 
-### [Smart Agriculture System](https://github.com/Irthn1311/SmartAgricultureSystem)
-IoT + ML prototype combining ESP32 sensor data, serial ingestion, a PyQt5 desktop interface, database integration, and model-assisted monitoring.
+### [TRIAGE-EG — AI Challenge 2026](https://github.com/Irthn1311/AIC2026_TeamPTK_SGU)
+Active video-retrieval competition project with reproducible data/frame contracts, baseline retrieval, evaluation, testing, and a local → GitHub → Kaggle experiment workflow.
 
-**Stack:** ESP32 · Python · PyQt5 · TensorFlow · PostgreSQL-oriented integration
+**Stack:** Python · Multimodal Retrieval · Video Search · Evaluation · Kaggle
 
 ### [Student Management System](https://github.com/Irthn1311/Student-Management-System_CSharp_SGU2025)
 Desktop school-management system with heuristic teaching assignment and Tabu Search timetable generation.
@@ -39,7 +39,7 @@ Desktop school-management system with heuristic teaching assignment and Tabu Sea
 ## Technical areas
 
 **AI / Machine Learning**  
-Python · Computer Vision · Graph Learning · scikit-learn · TensorFlow / PyTorch workflows · Model Evaluation
+Python · Computer Vision · Graph Learning · Multimodal Retrieval · scikit-learn · PyTorch / TensorFlow workflows · Model Evaluation
 
 **Backend / Data**  
 Flask · Node.js · Express · REST APIs · MySQL · PostgreSQL-oriented workflows
